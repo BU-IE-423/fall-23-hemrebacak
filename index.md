@@ -11,3 +11,5 @@ I'm a senior industrial engineering student at Bogazici University. Thanks to ou
 [Source code](code.ipynb)
 
 [html output](code.html)
+
+[Detailed report of findings](ProjectPart1.pdf)
