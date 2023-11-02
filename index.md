@@ -6,7 +6,8 @@ I'm a senior industrial engineering student at Bogazici University. Thanks to ou
 ## Repository link
 [Click here](https://github.com/BU-IE-423/fall-23-hemrebacak)
 ## Assignments
-### Project Part 1 (Manipulating, understanding, and drawing inferences from stock price data using quality engineering concepts)
+#### Project Part 1 (Manipulating, understanding, and drawing inferences from stock price data using quality engineering concepts)
 
 [Source code](code.ipynb)
+
 [html output](code.html)
