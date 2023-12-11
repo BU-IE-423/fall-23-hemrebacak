@@ -13,3 +13,9 @@ I'm a senior industrial engineering student at Bogazici University. Thanks to ou
 [html output](code.html)
 
 [Detailed report of findings](ProjectPart1.pdf)
+
+#### Project Part 2 (Application of Control Charts in Pairs Trading: An Analysis of BIST30 Stock Indices)
+
+[Source code](IE423_Project_Part2_Code.ipynb)
+
+[html output](IE423_Project_Part2_html.html)
